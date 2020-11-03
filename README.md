@@ -3,7 +3,7 @@
 Date Start: 3/26/18 
 Date End: 4/16/18
 
-Language: MySQL Workbench 6.3 CE, Java
+Language/Requirements: MySQL Workbench 6.3 CE, Java, JavaFx
 
 Authors: Casey Ranft and Alex Garlotte
 
