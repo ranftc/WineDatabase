@@ -11,9 +11,7 @@ Problem: Implement database mySQL concepts and technology in combination with Ja
 
 Description: My partner Alex and I decided to create a wine database and GUI in java. Our program can be broken down into parts based off interfaces and application. We focused on imitating a usable ranking website that would contain a user profile and database of wines available. The main purpose was to allow the user to rank/filter results based off the features then be able to add wines to their profile.
 
-Run: WineGUI.java with all other classes in the project folders
-
-Warnings: This program requires a connection to a specific mySQL server which doesn't always connect. Also, the GUI doesn't scale as well depending on the screen. The full screen option should help.
+IMPORTANT: This program uses a local server to store the database so it cannot be run by anyone.
 
 Work Load Distribution: Alex did about 60% of the GUI by laying out all the base framework, specifically the menu bar, outline, and profile page. I finished off the GUI table display, implementation of different filtering results, and did all the SQL coding and connections with Java.
 
